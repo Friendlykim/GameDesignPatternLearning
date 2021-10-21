@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bc48adfde5241944a98e19c9cb40108f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ParentVehicle: {fileID: 1453918398570286, guid: f8d5ef7ec3c721a4d86df7d5bc25ea68, type: 3}
+  - frame: {fileID: 1175984713072794, guid: 9c44e279a1a90b04188483c73d567255, type: 3}
+  - engine: {fileID: 1822682260861642, guid: dce1b9b1e02c69f43997c7607e4b946b, type: 3}
+  - wheel1: {fileID: 1877229633194440, guid: 473c926e6e1a5c742836506a7947ec53, type: 3}
+  - wheel2: {fileID: 1877229633194440, guid: 473c926e6e1a5c742836506a7947ec53, type: 3}
+  - wheel3: {fileID: 1877229633194440, guid: 473c926e6e1a5c742836506a7947ec53, type: 3}
+  - wheel4: {fileID: 1877229633194440, guid: 473c926e6e1a5c742836506a7947ec53, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

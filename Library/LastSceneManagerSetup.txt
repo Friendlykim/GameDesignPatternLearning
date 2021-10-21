@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/2SingleTonEx/SingleTon1/01.Scenes/01-WhenDestroy.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
