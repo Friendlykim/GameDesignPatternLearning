@@ -61,6 +61,7 @@
     <Compile Include="Assets\9BuilderEx\Builder2\02.Scripts\InterfaceBuilder.cs" />
     <Compile Include="Assets\2SingleTonEx\SingleTon2\02.Scripts\SceneTrans.cs" />
     <Compile Include="Assets\3StrategyEx\Strategy1\02.Scripts\IWeapon.cs" />
+    <Compile Include="Assets\6PrototypeEx\Prototype1\02.Scripts\P_UnitManager.cs" />
     <Compile Include="Assets\9BuilderEx\Builder2\02.Scripts\Vechicle.cs" />
     <Compile Include="Assets\9BuilderEx\Builder1\02.Scripts\CarBuilder.cs" />
     <Compile Include="Assets\2SingleTonEx\SingleTon1\02.Scripts\MyPoint.cs" />
@@ -71,6 +72,7 @@
     <Compile Include="Assets\2SingleTonEx\SingleTon1\02.Scripts\AudioManager.cs" />
     <Compile Include="Assets\4FactoryEx\Factory1\02.Scripts\FactoryUse.cs" />
     <Compile Include="Assets\2SingleTonEx\SingleTon2\02.Scripts\PointManager.cs" />
+    <Compile Include="Assets\6PrototypeEx\Prototype1\02.Scripts\P_Units.cs" />
     <Compile Include="Assets\9BuilderEx\Builder2\02.Scripts\CarBuilders.cs" />
     <Compile Include="Assets\3StrategyEx\Strategy1\02.Scripts\Missile.cs" />
     <Compile Include="Assets\9BuilderEx\Builder1\02.Scripts\InterfaceBuilder.cs" />
@@ -79,7 +81,6 @@
     <Compile Include="Assets\3StrategyEx\Strategy1\02.Scripts\Arrow.cs" />
     <Compile Include="Assets\9BuilderEx\Builder1\02.Scripts\Director.cs" />
     <Compile Include="Assets\2SingleTonEx\SingleTon1\02.Scripts\DestroyDelayeded.cs" />
-    <Compile Include="Assets\Mech_Constructor_Vehicles\Scripts\Roll_Wheels.cs" />
     <Compile Include="Assets\3StrategyEx\Strategy1\02.Scripts\Bullet.cs" />
     <Compile Include="Assets\9BuilderEx\Builder2\02.Scripts\BuildResult.cs" />
     <Compile Include="Assets\3StrategyEx\Strategy1\02.Scripts\MyWeapon.cs" />
@@ -87,11 +88,6 @@
     <Compile Include="Assets\2SingleTonEx\SingleTon1\02.Scripts\AudioClipPlay.cs" />
     <Compile Include="Assets\2SingleTonEx\SingleTon2\02.Scripts\MyAddPoint.cs" />
     <Compile Include="Assets\1ComponentEx\02.Scripts\MoveAct.cs" />
-    <Compile Include="Assets\6PrototypeEx\Prototype1\02.Scripts\P_Units.cs" />
-    <Compile Include="Assets\6PrototypeEx\Prototype1\02.Scripts\P_UnitManager.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Assets\Mech_Constructor_Vehicles\Readme.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
